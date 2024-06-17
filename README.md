@@ -4,7 +4,7 @@ Student Schedule Manager
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - **Project name:** AED2324_PRJ1_G1207
-- **Short description:** Schedule Managing System
+- **Short description:** Console-based Schedule Managing System
 - **Environment:** Unix/Windows console
 - **Tools:** C++
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
