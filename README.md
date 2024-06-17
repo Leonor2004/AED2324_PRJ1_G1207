@@ -1,5 +1,5 @@
 # AED2324_PRJ1_G1207
-Student Schedule Manager
+AED 1º Project - Student Schedule Manager
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,4 +13,4 @@ Student Schedule Manager
 - **Group members:**
  - Ana Filipa Geraldes (up202208030@up.pt), 
  - Filipa Fidalgo (up202208039@up.pt),
- - Leonor Couto (up202205796@up.pt)
+ - Leonor Couto (up202205796@up.pt).
